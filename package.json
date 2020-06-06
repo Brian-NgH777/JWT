@@ -51,7 +51,7 @@
         "migration"
     ],
     "dependencies": {
-        "apollo-server": "^2.9.16",
+        "apollo-server": "^2.14.2",
         "body-parser": "^1.19.0",
         "child-process-promise": "^2.2.1",
         "class-validator": "^0.9.1",
